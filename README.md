@@ -13,9 +13,12 @@
 ---
 ### Links 
 
-[Agenda Setting and LLMs Pt1 ](1ResearchPaper)
-[Agenda Setting and LLMs Pt2 ](2ResearchPaper)
-[Bibliography](Bibliography)
+[Agenda Setting and LLMs Pt1 ](1ResarchPaper.ipynb)
+
+[Agenda Setting and LLMs Pt2 ](2ResarchPaper.ipynb)
+
+[Bibliography](Bibliography.md)
+
 [Photos](Photos)
 
 
