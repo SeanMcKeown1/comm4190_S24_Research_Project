@@ -1,6 +1,6 @@
 # Bibliography 
 
-### ** Pt1
+### **Pt1
 
 Diakopoulos, N. (2019). Automating the news: How algorithms are rewriting the media. Harvard University Press.
 
@@ -18,7 +18,7 @@ Pashentsev, E. (2023). The Malicious Use of Artificial Intelligence Through Agen
 
 Plaue, M. (2023, June 6). LLMS for Innovation and Technology Intelligence: News categorization and trend signal detection. Medium.
 
-### ** Pt2
+### **Pt2
 
 Carr, D. (2010, December 13). WikiLeaks taps power of the Press. The New York Times. https://www.nytimes.com/2010/12/13/business/media/13carr.html 
 
