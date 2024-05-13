@@ -17,6 +17,8 @@
 
 [Agenda Setting and LLMs Pt2 ](2ResarchPaper.ipynb)
 
+[Conclusion](Conclusion.ipynb)
+
 [Bibliography](Bibliography.md)
 
 [Photos](Photos)
